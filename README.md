@@ -1,3 +1,8 @@
+<!--- especial repositório sobre o github ---> 
+
+<!--- comentário, serve para esconder ou ocultar dados --->
+![gato](https://media.tenor.com/f_saBHiUTz0AAAAM/cute-cat.gif)
+
 # Sobre mim **liana**
 - 👋**Olá eu sou @l3ana**
 - :+1: O meu .[e-mail](liana.schirmer@escola.pr.gov.br)
@@ -10,7 +15,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-l3ana/l3ana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  
